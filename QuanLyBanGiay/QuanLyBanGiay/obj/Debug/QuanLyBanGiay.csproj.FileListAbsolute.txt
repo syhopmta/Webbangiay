@@ -1,0 +1,10 @@
+C:\Users\Dell\Desktop\QuanLyBanGiay\QuanLyBanGiay\bin\Debug\QuanLyBanGiay.exe.config
+C:\Users\Dell\Desktop\QuanLyBanGiay\QuanLyBanGiay\bin\Debug\QuanLyBanGiay.exe
+C:\Users\Dell\Desktop\QuanLyBanGiay\QuanLyBanGiay\bin\Debug\QuanLyBanGiay.pdb
+C:\Users\Dell\Desktop\QuanLyBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\QuanLyBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.frmMain.resources
+C:\Users\Dell\Desktop\QuanLyBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.Properties.Resources.resources
+C:\Users\Dell\Desktop\QuanLyBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\QuanLyBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\QuanLyBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.exe
+C:\Users\Dell\Desktop\QuanLyBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.pdb
