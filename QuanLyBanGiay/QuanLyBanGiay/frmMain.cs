@@ -21,5 +21,18 @@ namespace QuanLyBanGiay
         {
 
         }
+
+        private void barButtonItem2_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
+        {
+
+        }
+
+        private void btnNguoidung_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
+        {
+            ucNhanVien uc = new ucNhanVien(); // khởi tạo user control
+            panelControl1.Controls.Clear(); // xóa bỏ những gì nắm trền panelcontrol
+            panelControl1.Controls.Add(uc);
+            uc.Dock = DockStyle.Fill; // thiết lập thuộc tính Dock cho ucNhanvien
+        }
     }
 }
