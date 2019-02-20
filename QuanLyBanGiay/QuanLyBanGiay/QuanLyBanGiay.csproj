@@ -91,11 +91,11 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="ucNhanVien.cs">
+    <Compile Include="ucNhanvien.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="ucNhanVien.Designer.cs">
-      <DependentUpon>ucNhanVien.cs</DependentUpon>
+    <Compile Include="ucNhanvien.Designer.cs">
+      <DependentUpon>ucNhanvien.cs</DependentUpon>
     </Compile>
     <EmbeddedResource Include="frmMain.resx">
       <DependentUpon>frmMain.cs</DependentUpon>
@@ -110,8 +110,8 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="ucNhanVien.resx">
-      <DependentUpon>ucNhanVien.cs</DependentUpon>
+    <EmbeddedResource Include="ucNhanvien.resx">
+      <DependentUpon>ucNhanvien.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="ds.xsc">
       <DependentUpon>ds.xsd</DependentUpon>
