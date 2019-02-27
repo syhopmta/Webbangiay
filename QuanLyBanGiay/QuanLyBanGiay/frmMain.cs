@@ -85,5 +85,10 @@ namespace QuanLyBanGiay
             panelControl1.Controls.Add(uc);
             uc.Dock = DockStyle.Fill; // thiết lập thuộc tính Dock cho ucNhanvien
         }
+
+        private void frmMain_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }
