@@ -33,6 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Accessibility" />
     <Reference Include="DevExpress.CodeParser.v16.1, Version=16.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
     <Reference Include="DevExpress.Data.v16.1, Version=16.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
     <Reference Include="DevExpress.DataAccess.v16.1, Version=16.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
@@ -60,13 +61,22 @@
     <Reference Include="DevExpress.XtraRichEdit.v16.1, Version=16.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
     <Reference Include="DevExpress.XtraTreeList.v16.1, Version=16.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
     <Reference Include="DevExpress.XtraVerticalGrid.v16.1, Version=16.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="PresentationCore" />
     <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
     <Reference Include="System.Data.OracleClient" />
     <Reference Include="System.Design" />
     <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Runtime.Remoting" />
     <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Runtime.Serialization.Formatters.Soap" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Windows.Input.Manipulations" />
+    <Reference Include="System.Xaml" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -76,6 +86,10 @@
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
+    <Reference Include="UIAutomationClient" />
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="UIAutomationTypes" />
+    <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ds.Designer.cs">
@@ -91,6 +105,24 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ucHanghoa.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucHanghoa.Designer.cs">
+      <DependentUpon>ucHanghoa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucHoadon.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucHoadon.Designer.cs">
+      <DependentUpon>ucHoadon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucNhacungcap.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucNhacungcap.Designer.cs">
+      <DependentUpon>ucNhacungcap.cs</DependentUpon>
+    </Compile>
     <Compile Include="ucNhanvien.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -110,6 +142,15 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="ucHanghoa.resx">
+      <DependentUpon>ucHanghoa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucHoadon.resx">
+      <DependentUpon>ucHoadon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucNhacungcap.resx">
+      <DependentUpon>ucNhacungcap.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="ucNhanvien.resx">
       <DependentUpon>ucNhanvien.cs</DependentUpon>
     </EmbeddedResource>

@@ -366,3 +366,5 @@ C:\Users\Dell\Desktop\Webbangiay\QuanLyBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBan
 C:\Users\Dell\Desktop\Webbangiay\QuanLyBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.csproj.CopyComplete
 C:\Users\Dell\Desktop\Webbangiay\QuanLyBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.exe
 C:\Users\Dell\Desktop\Webbangiay\QuanLyBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.pdb
+C:\Users\Dell\Desktop\Webbangiay\QuanLyBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.ucNhacungcap.resources
+C:\Users\Dell\Desktop\Webbangiay\QuanLyBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.ucHanghoa.resources
