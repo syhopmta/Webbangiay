@@ -40,7 +40,10 @@ namespace QuanLyBanGiay
 
         private void barButtonItem3_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
         {
-
+            ucChitiethoadon uc = new ucChitiethoadon();
+            panelControl1.Controls.Clear(); // xóa bỏ những gì nắm trền panelcontrol
+            panelControl1.Controls.Add(uc);
+            uc.Dock = DockStyle.Fill;   
         }
 
         private void hANGHOABindingNavigatorSaveItem_Click(object sender, EventArgs e)

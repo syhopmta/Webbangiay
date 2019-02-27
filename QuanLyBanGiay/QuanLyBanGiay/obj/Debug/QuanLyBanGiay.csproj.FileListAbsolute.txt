@@ -368,3 +368,6 @@ C:\Users\Dell\Desktop\Webbangiay\QuanLyBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBan
 C:\Users\Dell\Desktop\Webbangiay\QuanLyBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.pdb
 C:\Users\Dell\Desktop\Webbangiay\QuanLyBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.ucNhacungcap.resources
 C:\Users\Dell\Desktop\Webbangiay\QuanLyBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.ucHanghoa.resources
+C:\Users\Dell\Desktop\Webbangiay\QuanLyBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.ucHoadon.resources
+C:\Users\Dell\Desktop\Webbangiay\QuanLyBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.inDSSP.resources
+C:\Users\Dell\Desktop\Webbangiay\QuanLyBanGiay\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.ucChitiethoadon.resources

@@ -160,7 +160,7 @@
             // 
             this.barButtonItem3.ActAsDropDown = true;
             this.barButtonItem3.ButtonStyle = DevExpress.XtraBars.BarButtonStyle.DropDown;
-            this.barButtonItem3.Caption = "Hóa Đơn";
+            this.barButtonItem3.Caption = "Chi Tiết Hóa Đơn";
             this.barButtonItem3.DropDownControl = this.popupMenu1;
             this.barButtonItem3.Id = 10;
             this.barButtonItem3.Name = "barButtonItem3";
@@ -188,28 +188,28 @@
             this.barDockControlTop.CausesValidation = false;
             this.barDockControlTop.Dock = System.Windows.Forms.DockStyle.Top;
             this.barDockControlTop.Location = new System.Drawing.Point(0, 0);
-            this.barDockControlTop.Size = new System.Drawing.Size(800, 0);
+            this.barDockControlTop.Size = new System.Drawing.Size(800, 22);
             // 
             // barDockControlBottom
             // 
             this.barDockControlBottom.CausesValidation = false;
             this.barDockControlBottom.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.barDockControlBottom.Location = new System.Drawing.Point(0, 398);
-            this.barDockControlBottom.Size = new System.Drawing.Size(800, 0);
+            this.barDockControlBottom.Location = new System.Drawing.Point(0, 375);
+            this.barDockControlBottom.Size = new System.Drawing.Size(800, 23);
             // 
             // barDockControlLeft
             // 
             this.barDockControlLeft.CausesValidation = false;
             this.barDockControlLeft.Dock = System.Windows.Forms.DockStyle.Left;
-            this.barDockControlLeft.Location = new System.Drawing.Point(0, 0);
-            this.barDockControlLeft.Size = new System.Drawing.Size(0, 398);
+            this.barDockControlLeft.Location = new System.Drawing.Point(0, 22);
+            this.barDockControlLeft.Size = new System.Drawing.Size(0, 353);
             // 
             // barDockControlRight
             // 
             this.barDockControlRight.CausesValidation = false;
             this.barDockControlRight.Dock = System.Windows.Forms.DockStyle.Right;
-            this.barDockControlRight.Location = new System.Drawing.Point(800, 0);
-            this.barDockControlRight.Size = new System.Drawing.Size(0, 398);
+            this.barDockControlRight.Location = new System.Drawing.Point(800, 22);
+            this.barDockControlRight.Size = new System.Drawing.Size(0, 353);
             // 
             // barSubItem2
             // 
@@ -269,9 +269,9 @@
             // panelControl1
             // 
             this.panelControl1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panelControl1.Location = new System.Drawing.Point(0, 0);
+            this.panelControl1.Location = new System.Drawing.Point(0, 22);
             this.panelControl1.Name = "panelControl1";
-            this.panelControl1.Size = new System.Drawing.Size(800, 398);
+            this.panelControl1.Size = new System.Drawing.Size(800, 353);
             this.panelControl1.TabIndex = 4;
             // 
             // hANGHOABindingSource
